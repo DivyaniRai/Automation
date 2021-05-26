@@ -6,4 +6,6 @@ the defifnitation of both the scenarios are there inside stepdef package
 
 ## Report
 cucumber-reports->cucumber-pretty-> index.html
+
+
 testNG report = surefire-report->index.html
